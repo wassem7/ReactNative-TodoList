@@ -23,7 +23,7 @@ export default function Home({ navigation }) {
       key: '2',
     },
     {
-      title: 'Set up mongodb for the backend',
+      title: 'Set up mongodb for the backend ',
       rating: 3,
       body: 'lorem ipsum',
       key: '3',
